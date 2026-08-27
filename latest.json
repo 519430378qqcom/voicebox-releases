@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "Voicebox v1.0.0",
+  "pub_date": "2026-08-27T15:14:18Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQjFHVkVxTHc0Z3QvdzdtK1REcU9rd0ExU1ZTNnlrcmc3V1JTbTJNeVdMWkoyNTBXUHZiMHZBRnNCak9WVTlFeGVKN01BL3kzRURGdlEvMXlKQWJPUEdvRzd0MmlQNVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQyMzgwCWZpbGU6Vm9pY2Vib3guYXBwLnRhci5negpWbi9UanNoL2Z5U2oxSDNRVGgyODEzVmIvZVlHYnJqSmVVYkMwYnRKME1BRHh4a2hhVzIxSFh1NGtXUGRoTTl6MUlhNU5wRGNGYzFrNVpuNHdCb2JDZz09Cg==",
+      "url": "https://github.com/519430378qqcom/voicebox-releases/releases/download/v1.0.0/Voicebox-1.0.0-darwin-aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQjFHVkVxTHc0Z3AwaEhNdFBLWmw5UFN6R1BQTjlrUUxUNG9ZVFVPdlF3bnlXVjVSbG1tNVJOQnNMNzZGd2w2NU1kNWJJdGYzVGl4Y2FDT3l2TnV4UVFTd2hneFllZVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQzMDM4CWZpbGU6Vm9pY2Vib3guYXBwLnRhci5negoyNmw5WnhGRjV3cU9wNEg4ZUZ3NTloNlA5Y1JWcmlxYkZWUTV4blhuYWdTaGZQRnYyTkJIWHI4RTNRV2lRZTROYnFSU05OWklBYUl1ZXlJMTd3eEpCUT09Cg==",
+      "url": "https://github.com/519430378qqcom/voicebox-releases/releases/download/v1.0.0/Voicebox-1.0.0-darwin-x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQjFHVkVxTHc0Z2tKS3R4S0laUWVsR2ZMcm9naWIxN3FmMDFaM1JnWk5FQmFYNjJKTXUvMkF1T2o2aVA4NWV2SXQ2VmlXMHIycHQ5aG1rdVMxeWQ3K09LQ1NJbWpwSUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQzNDYwCWZpbGU6Vm9pY2Vib3hfMS4wLjBfeDY0LXNldHVwLmV4ZQo5U3hKTlo5eWMwaEFDMGI1d29xT3Z1MForVTduRi81b2JoTHRqa3MzajRjVTlFcGxlZ254SzAzSHhWTG9lN0N6RUs0UVhCS0lIVmJ2TkFLSlQvVEFCQT09Cg==",
+      "url": "https://github.com/519430378qqcom/voicebox-releases/releases/download/v1.0.0/Voicebox_1-1.0.0-windows-x86_64.0.0_x64-setup.exe"
+    }
+  }
+}
